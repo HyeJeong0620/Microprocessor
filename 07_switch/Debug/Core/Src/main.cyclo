@@ -1,0 +1,5 @@
+main.c:88:7:set_led	9
+main.c:64:5:main	2
+main.c:139:6:SystemClock_Config	3
+main.c:176:13:MX_GPIO_Init	1
+main.c:221:6:Error_Handler	1

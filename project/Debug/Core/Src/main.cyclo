@@ -1,0 +1,11 @@
+main.c:76:6:display_menu	1
+main.c:102:6:led_all_off	2
+main.c:108:6:mode_A	9
+main.c:127:6:mode_B	25
+main.c:188:6:mode_C	9
+main.c:214:5:main	4
+main.c:267:6:SystemClock_Config	3
+main.c:307:13:MX_USART2_UART_Init	2
+main.c:340:13:MX_GPIO_Init	1
+main.c:377:6:HAL_UART_RxCpltCallback	5
+main.c:419:6:Error_Handler	1

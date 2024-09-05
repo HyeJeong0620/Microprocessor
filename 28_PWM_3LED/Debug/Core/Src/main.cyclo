@@ -1,0 +1,8 @@
+main.c:63:5:__io_putchar	2
+main.c:71:6:print123_pwm	1
+main.c:86:5:main	5
+main.c:142:6:SystemClock_Config	3
+main.c:182:13:MX_TIM3_Init	8
+main.c:249:13:MX_USART2_UART_Init	2
+main.c:282:13:MX_GPIO_Init	1
+main.c:304:6:Error_Handler	1

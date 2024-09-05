@@ -1,0 +1,11 @@
+../Core/Src/main.c:76:6:display_menu	8	static
+../Core/Src/main.c:102:6:led_all_off	16	static
+../Core/Src/main.c:108:6:mode_A	16	static
+../Core/Src/main.c:127:6:mode_B	8	static
+../Core/Src/main.c:188:6:mode_C	16	static
+../Core/Src/main.c:214:5:main	8	static
+../Core/Src/main.c:267:6:SystemClock_Config	72	static
+../Core/Src/main.c:307:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:340:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:377:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:419:6:Error_Handler	4	static,ignoring_inline_asm
